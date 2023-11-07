@@ -1,2 +1,2 @@
 # ApothAI
-## Built by Ali Saeed and Ashwin Loganathan
+### Built by Ali Saeed and Ashwin Loganathan
