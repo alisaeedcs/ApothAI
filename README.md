@@ -1,4 +1,4 @@
-# Pill Recognition Open-Source Project
+# ApothAI - Pill Recognition
 
 ## Introduction
 
@@ -41,3 +41,8 @@ Misuse of prescription and over-the-counter medications is a widespread issue th
 We welcome contributors from the open-source community to help improve and expand this project. Feel free to create issues, contribute code, suggest improvements, or work on any aspect of the project through our GitHub repository.
 
 Together, through open collaboration, we can provide a valuable tool to combat pill misuse and promote responsible medication use.
+
+## Founders/Leads
+
+- Ali Saeed
+- Ashwin Loganathan
