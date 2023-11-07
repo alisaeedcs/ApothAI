@@ -36,6 +36,22 @@ Misuse of prescription and over-the-counter medications is a widespread issue th
 - Overdose deaths involving prescription opioids have quadrupled since 1999, with over 232,000 deaths reported from 1999 to 2019.
 - The National Institute on Drug Abuse (NIDA) reports that nearly 53 million people aged 12 and older have misused prescription drugs at least once in their lifetime.
 
+## Research Papers We Drew Inspiration From
+
+In the development of our Pill Recognition project, we drew inspiration from the following research papers related to image recognition, deep learning, and computer vision:
+
+1. ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+2. ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](https://arxiv.org/abs/1506.01497) by Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun
+
+3. ["YOLO9000: Better, Faster, Stronger"](https://arxiv.org/abs/1612.08242) by Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+
+4. ["ImageNet Classification with Deep Convolutional Neural Networks"](http://www.cs.toronto.edu/~hinton/absps/imagenet.pdf) by Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
+
+5. ["DenseNet: Densely Connected Convolutional Networks"](https://arxiv.org/abs/1608.06993) by Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
+
+These research papers served as valuable sources of inspiration and provided insights into the techniques, architectures, and methodologies that informed the development of our project.
+
 ## How to Contribute
 
 We welcome contributors from the open-source community to help improve and expand this project. Feel free to create issues, contribute code, suggest improvements, or work on any aspect of the project through our GitHub repository.
