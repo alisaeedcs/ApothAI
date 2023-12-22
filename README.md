@@ -1,5 +1,8 @@
 # ApothAI - Pill Recognition
 
+## Disclaimer
+We are currently evaluating how to upload all of the final stages of ApothAI to the github repository since they are all remotely stored, we will solve this issue soon. As of now, the initial datasets and jupyter files are only here.
+
 ## Introduction
 
 Pill misuse is a significant public health concern with far-reaching consequences. Misuse of prescription and over-the-counter medications can lead to health risks, addiction, and other adverse effects. Our open-source Pill Recognition Project aims to provide a solution to help individuals identify pills accurately and make informed decisions about their medication.
